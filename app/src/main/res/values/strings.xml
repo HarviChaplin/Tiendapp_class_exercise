@@ -1,0 +1,80 @@
+<resources>
+    <!-- Main activity-->
+    <string name="app_name">TienditaApp</string>
+    <string name="txt_spn_start_title_main"> Inicio de Sesión</string>
+    <string name="txt_eng_start_title_main"> Log In</string>
+    <string name="hint_spn_email_main">Escriba su correo</string>
+    <string name="hint_eng_email_main">E-mail</string>
+    <string name="hint_spn_password_main">Escriba su contraseña</string>
+    <string name="hint_eng_password_main">Password</string>
+    <string name="txt_spn_btn_start_main">Iniciar </string>
+    <string name="txt_eng_btn_start_main">LogIn </string>
+    <string name="txt_spn_btn_register_main">Registrarse</string>
+    <string name="txt_eng_btn_register_main">Register </string>
+    <!-- Product List activity -->
+    <string name="txt_spn_title_list">Listado de productos </string>
+    <string name="txt_eng_title_list">Product list </string>
+    <string name="bt_spn_button_list">Agregar producto </string>
+    <string name="bt_eng_button_list">Add product </string>
+    <string name="txt_spn_toast_list">Producto agregado </string>
+    <string name="txt_eng_toast_list">Added product </string>
+    <!-- Product Detail Activity-->
+    <string name="txt_spn_detail_title">Detalle: %1s </string>
+    <string name="txt_eng_detail_title">Detail: %1s </string>
+    <!-- Forms Activity -->
+    <string name="txt_spn_edit_product_title_form">Editar product </string>
+    <string name="txt_eng_edit_product_title_form">Edit product </string>
+    <string name="txt_spn_add_product_title">Agregar product </string>
+    <string name="txt_eng_add_product_title">Add product </string>
+    <string name="hint_spn_add_product_name">Nombre </string>
+    <string name="hint_eng_add_product_name">Name </string>
+    <string name="hint_spn_add_product_image">URL Imagen </string>
+    <string name="hint_eng_add_product_image">URL Image </string>
+    <string name="hint_spn_add_product_description">Descripción </string>
+    <string name="hint_eng_add_product_description">Description</string>
+    <string name="hint_spn_add_product_price">Precio </string>
+    <string name="hint_eng_add_product_price">Price</string>
+    <string name="bt_spn_add_product_button">Agregar </string>
+    <string name="bt_eng_add_product_button">Add </string>
+    <string name="bt_spn_edit_product_button_form">Editar </string>
+    <string name="bt_eng_edit_product_button_form">Edit </string>
+    <!-- User List Activity -->
+    <string name="txt_spn_title_user_list">Lista de Usuarios </string>
+    <string name="txt_eng_title_user_list">Users list </string>
+    <string name="bt_spn_button_user_list">Registar Usuario </string>
+    <string name="bt_eng_button_user_list">Register User </string>
+    <string name="txt_spn_toast_user_list">Usuario registrado con éxito</string>
+    <string name="txt_eng_toast_user_list">Registered user successfully </string>
+    <!-- User Form Activity -->
+    <string name="txt_spn_edit_user_title_form">Editar usuario </string>
+    <string name="txt_eng_edit_user_title_form">Edit user </string>
+    <string name="txt_spn_register_user_title">Registrar usuario </string>
+    <string name="txt_eng_register_user_title">Register user </string>
+    <string name="hint_spn_add_user_name">Nombre </string>
+    <string name="hint_eng_add_user_name">Name </string>
+    <string name="hint_spn_add_user_image">URL Imagen </string>
+    <string name="hint_eng_add_user_image">URL Image </string>
+    <string name="hint_spn_add_user_email">Correo electrónico </string>
+    <string name="hint_eng_add_user_email">E-mail</string>
+    <string name="hint_spn_add_user_password">Contraseña </string>
+    <string name="hint_eng_add_user_password">Password</string>
+    <string name="hint_spn_add_user_new_password">Nueva Contraseña </string>
+    <string name="hint_eng_add_user_new_password">New Password</string>
+    <string name="bt_spn_register_user_button">Registrar </string>
+    <string name="bt_eng_register_user_button">Register </string>
+    <string name="bt_spn_edit_user_button_form">Editar </string>
+    <string name="bt_eng_edit_user_button_form">Edit </string>
+    <!-- Lobby Activity -->
+    <string name="txt_spn_title_lobby">Seleccione lista a visualizar </string>
+    <string name="txt_eng_title_lobby">Select list to view </string>
+    <string name="txt_spn_btn_products_lobby">Productos </string>
+    <string name="txt_eng_btn_products_lobby">Products </string>
+    <string name="txt_spn_btn_users_lobby">Usuarios</string>
+    <string name="txt_eng_btn_users_lobby">Users </string>
+    <!-- Preferences -->
+    <string name="txt_preferences_name">preferences</string>
+    <string name="txt_login_preference">login</string>
+    <!-- Menu -->
+    <string name="txt_eng_menu_bar">Log Out</string>
+    <string name="txt_spn_menu_bar">Cerrar sesión</string>
+</resources>
